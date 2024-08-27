@@ -36,6 +36,22 @@ button {
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
+
+footer.copyright {
+    text-align: center;
+    padding: 20px;
+    background-color: #f1f1f1;
+    color: #333;
+    font-size: 14px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer.copyright p {
+    margin: 0;
+}
+
 #yesBtn {
     background-color: #28a745;
     color: white;
