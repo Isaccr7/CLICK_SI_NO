@@ -11,5 +11,5 @@ noBtn.addEventListener('mouseover', () => {
 });
 
 document.getElementById('yesBtn').addEventListener('click', () => {
-    window.location.href = 'flowers.html';  // Redirige a la página flowers.html
+    window.location.href = 'floresYelow.html';  // Redirige a la página flowers.html
 });
